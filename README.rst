@@ -3,7 +3,7 @@ Reference figures for the psy-maps package
 ==========================================
 
 This repository is mainly designed for the continuous integration
-of the psy-maps package. If you cloned the psy-maps repository,
+of the psy-maps_ package. If you cloned the psy-maps repository,
 get the identifier via through the get_ref_dir.py_ file::
 
     python tests/get_ref_dir.py -b
