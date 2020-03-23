@@ -16,5 +16,5 @@ and in the cloned ``psy-maps`` repository, run::
 
     git submodule update --init `python tests/get_ref_dir.py`
 
-.. _psy-maps: https://github.com/Chilipp/psy-maps
-.. _get_ref_dir.py: https://github.com/Chilipp/psy-maps/blob/master/tests/get_ref_dir.py
+.. _psy-maps: https://github.com/psyplot/psy-maps
+.. _get_ref_dir.py: https://github.com/psyplot/psy-maps/blob/master/tests/get_ref_dir.py
